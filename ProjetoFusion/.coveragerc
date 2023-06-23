@@ -6,6 +6,7 @@ omit =
     */settings.py
     */manage.py
     */wsgi.py
+    */fusion/asgi.py
     */apps.py
     */admin.py
     */urls.py
